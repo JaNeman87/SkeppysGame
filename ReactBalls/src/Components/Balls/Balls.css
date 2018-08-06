@@ -1,0 +1,20 @@
+.Ball {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: #3d3c3a;
+    border-radius: 100%;
+    display: inline-block;
+    background-color: #fff;
+    margin: 20px;
+    font-weight: 500;
+    box-shadow: 1px 1px 0.5px #000;
+    align-items: center;
+    cursor: pointer
+}
+
+.Ballcolor{
+    background-color: yellow;
+}
+

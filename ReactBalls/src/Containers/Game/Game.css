@@ -1,0 +1,37 @@
+.Balls{
+    width: 100%;
+    margin: auto;
+    height: 540px;
+    overflow: auto;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.Ballcolor{
+    background-color: yellow;
+}
+
+
+@media (min-width: 500px) and (min-height: 400px){
+    .Balls{
+        width: 350px;
+        height: 300px;
+    }
+}
+
+@media (min-width: 500px) and (min-height: 401px){
+    .Balls{
+        width: 450px;
+        height: 400px;
+    }
+}
+
+@media (min-width: 1000px) and (min-height: 600px){
+    .Balls{
+        width: 95%;
+        overflow: hidden;
+        height: 390px;
+        margin-left: 40px
+    }
+}

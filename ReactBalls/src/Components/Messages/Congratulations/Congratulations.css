@@ -1,0 +1,8 @@
+.Congrats{
+    display: inline;
+    text-align: center;
+    color: rgb(21, 221, 3)
+}
+.Congrats h2{
+    margin: 0
+}
