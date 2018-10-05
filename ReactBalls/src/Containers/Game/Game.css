@@ -30,7 +30,7 @@
 @media (min-width: 1000px) and (min-height: 600px){
     .Balls{
         width: 95%;
-        overflow: hidden;
+        overflow: auto;
         height: 390px;
         margin-left: 40px
     }
